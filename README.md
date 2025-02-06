@@ -2,8 +2,7 @@
 
 ## Descrição
 
-O CoffeeTech é um site dedicado aos amantes de café, oferecendo informações sobre diferentes tipos de café, receitas de bebidas, dicas de preparo e uma loja virtual com produtos relacionados ao café.
-
+Seja bem-vindo ao CoffeeTech, o paraíso dos apaixonados por café! Aqui, você encontrará um universo de sabores e aromas, com informações detalhadas sobre os melhores grãos, dicas de preparo para um café perfeito  para você se deliciar. Mas não para por aí! Explore nossa loja virtual e encontre produtos incríveis para preparar o seu café em casa.
 ## Funcionalidades
 
 * Navegação intuitiva e responsiva
